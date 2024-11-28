@@ -26,3 +26,6 @@ The German non-residential building stock structure is a result of the 'ENOB:Dat
 in accordance with the parliamentary resolution of the German Parliament.
 
 Total number of individual page views: 
+ <a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/m41d3mbddmvgxp2ej6nm" alt="trackgit-views" />
+</a>
